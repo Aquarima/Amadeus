@@ -18,7 +18,7 @@
     line-height: 50px;
     overflow-wrap: anywhere;
     font-size: 25px;
-    color:  #5D6D7E;
+    color:  #808CA6;
 }
 
 .section > .acheter {
@@ -31,8 +31,9 @@
     align-items: center;
     justify-content: center;
     gap: 5px;
-    background-color: green;
+    background-color: #008000;
     font-size: 18px;
     font-family: 'Montserrat-SemiBold';
     color: #FFFFFF;
+    cursor: url(hand.cur), pointer;
 }

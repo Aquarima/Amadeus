@@ -64,6 +64,8 @@ header > nav > .menu > li {
 }
 
 header > nav > .menu > li > a {
+    width: 100%;
+    height: 100%;
     display: flex;
     align-items: center;
     font-size: 18px;
@@ -101,6 +103,18 @@ header > nav > .menu > li > .sous-menu > li > a {
     color: #FFFFFF;
 }
 
+header > nav > .menu > li > a > #contact {
+    width: 120px;
+    height: 50px;
+    border: none;
+    border-radius: 30px;
+    background-color: #04BFBF;
+    font-size: 18px;
+    font-family: 'Montserrat-Medium';
+    color: #FFFFFF;
+    cursor: url(hand.cur), pointer;
+}
+
 footer {
     padding: 20px 0 20px 0;
     width: 100%;
@@ -108,8 +122,6 @@ footer {
     flex-direction: row;
     justify-content: center;
     gap: 10%;;
-    position: absolute;
-    bottom: 0;
     border-top: 2px solid #344973;
     background-color: #344973;
 }
