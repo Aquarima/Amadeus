@@ -29,6 +29,7 @@ form > div > input[type="textarea"] {
     padding-left: 8px;
     width: 600px;
     height: 150px;
+    text-align: top;
 }
 
 form > input[type="button"] {

@@ -22,7 +22,24 @@
 }
 
 .section > .acheter {
-    width: 150px;
+    width: 160px;
+    height:  60px;
+    border-radius: 30px;
+    border: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    background-color: #008000;
+    font-size: 18px;
+    font-family: 'Montserrat-SemiBold';
+    color: #FFFFFF;
+    cursor: url(hand.cur), pointer;
+}
+
+.section > .precommander {
+    width: 200px;
     height:  60px;
     border-radius: 30px;
     border: none;

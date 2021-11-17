@@ -123,6 +123,8 @@ footer {
     flex-direction: row;
     justify-content: center;
     gap: 10%;;
+    position: absolute;
+    bottom: 0;
     border-top: 2px solid #344973;
     background-color: #344973;
 }

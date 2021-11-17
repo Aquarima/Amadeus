@@ -1,0 +1,8 @@
+- Binôme: Ehis Okpebho / Mohamed Ghazi
+- Groupe: B
+- Nom de l'entreprise: Amadeus
+- Remarques: Nous avons eu un soucis avec le footer sur deux pages donc a du créer une page css defaut_bis 
+  pour régler le soucis sur les deux pages qui concernait les pages non scrollable qui sont index.html et
+  contact.html sur lesquelles le footer ne s'alignait pas en bas de la page.
+  Nous avons souhaité mettre des images pour séparer les différentes catégories sur certaines pages mais nous
+  n'avons pas réussi à trouver des images appropriées.
